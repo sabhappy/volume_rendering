@@ -25,15 +25,10 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    glwidget.cpp \
-    stb_image.c
+    glwidget.cpp
 
 HEADERS  += mainwindow.h \
-    glwidget.h \
-    stb_image.h
+    glwidget.h
 
 FORMS    += mainwindow.ui
-
-DISTFILES += \
-    side1.png
 

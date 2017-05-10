@@ -74,9 +74,6 @@
    <extends>QWidget</extends>
    <header>glwidget.h</header>
    <container>1</container>
-   <slots>
-    <slot>updateTex()</slot>
-   </slots>
   </customwidget>
  </customwidgets>
  <resources/>
@@ -88,8 +85,8 @@
    <slot>close()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>461</x>
-     <y>306</y>
+     <x>417</x>
+     <y>318</y>
     </hint>
     <hint type="destinationlabel">
      <x>451</x>
